@@ -11,9 +11,5 @@ namespace DataAccessLayer.Abstract
     {
         //CRUD
         //Type Name();
-        List<Category> List();
-        void Insert(Category category);
-        void Update(Category category);
-        void Delete(Category category);
     }
 }
